@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "p0YKMShLVvHwvg4h",
+        "MONGO_ATLAS_USER": "cxk995",
+        "JWT_KEY": "secret",
+        "SERVER_PUBLIC_IP": "http://192.168.0.2:3001"
+    }
+}
